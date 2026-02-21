@@ -207,7 +207,7 @@ const HomeFooter = () => {
                                 className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>
                                 &nbsp;Ahmad Group&nbsp;
                             </Link>
-                            | <br className='min-[500px]:hidden'/> Design & Develop By <a href="https://www.paandaaa.com/" target="_blank" className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>Paandaaa</a>
+                            | <br className='min-[500px]:hidden'/> Design & Develop By <a href="https://digiflick.co/" target="_blank" className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>Digiflick</a>
                         </p>
                         <ul className='flex items-center gap-7.5 text-[#00000099] text-xs'>
                             <li>
