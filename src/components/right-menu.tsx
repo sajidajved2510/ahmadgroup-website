@@ -97,7 +97,7 @@ const RightMenu = ({ showMenu, setShowMenu }: menuProps) => {
                 </div>
 
                 <div className='p-4 px-5 border border-black/10 text-[#00000099] text-center'>
-                    <p className='text-sm font-light'>Copyright 2025 <Link href={routes.home} className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>Ahmad Group</Link> | Develop By <a href="https://www.paandaaa.com/" className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>Paandaaa</a></p>
+                    <p className='text-sm font-light'>Copyright 2025 <Link href={routes.home} className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>Ahmad Group</Link> | Develop By <a href="https://digiflick.co/" className='text-[var(--secondary-color)] font-medium hover:text-black transition-colors'>Digiflick</a></p>
 
                 </div>
 
