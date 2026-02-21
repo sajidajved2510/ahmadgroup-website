@@ -9,7 +9,7 @@ export const routes = {
   },
   about: '/about' as Route,
   contact: '/contact' as Route,
-  blog: '/blog' as Route,
+  blog: 'https://blogs.ahmadgroup.pk/' as Route,
   project: '/project' as Route,
   career: '/career' as Route,
 };
