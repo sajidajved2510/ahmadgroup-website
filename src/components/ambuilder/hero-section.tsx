@@ -21,7 +21,7 @@ const Hero = () => {
       <div className='px-3 mx-auto'>
         <div className='flex gap-9 2xl:gap-15'>
           <div className='relative hidden lg:block w-fit'>
-            <Image src='/images/ambuilder/banner.png' alt='hero-image' width={710} height={710}
+            <Image src='/images/ambuilder/banner.jpeg' alt='hero-image' width={710} height={710}
               className='size-107.5 xl:size-137.5 2xl:size-177.5 relative rounded-full hover:translate-2 transition-transform duration-500 ease-in-out z-20'
             />
           </div>
