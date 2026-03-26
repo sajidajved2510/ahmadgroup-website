@@ -22,7 +22,7 @@ const VedioSection = () => {
     <section className="relative w-full h-[85vh] min-h-100 overflow-hidden mt-10">
       {/* ✅ Background Video */}
       <Image src ="/images/ambuilder/video-banner.png" alt="Background Video" fill className="object-cover w-full h-full"/>
-      {/* <video
+      <video
         ref={videoRef}
         className="absolute top-0 left-0 w-full h-full object-cover"
         src="/images/ambuilder/oil-and-gas.mp4"
@@ -30,7 +30,7 @@ const VedioSection = () => {
         loop
         muted
         playsInline
-      /> */}
+      /> 
 {/*  */}
       {/* ✅ Dark overlay */}
       <div className="absolute inset-0 bg-black/50" />
