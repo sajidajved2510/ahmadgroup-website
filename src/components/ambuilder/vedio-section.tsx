@@ -25,7 +25,7 @@ const VedioSection = () => {
       <video
         ref={videoRef}
         className="absolute top-0 left-0 w-full h-full object-cover"
-        src="/images/ambuilder/oil-and-gas.mp4"
+        src="https://ahmadgroup-website-dvaw-mhjq0bf4j-sajidajved2510s-projects.vercel.app/reel.mp4"
         autoPlay
         loop
         muted
