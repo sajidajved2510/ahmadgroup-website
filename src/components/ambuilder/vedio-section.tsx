@@ -21,7 +21,7 @@ const VedioSection = () => {
   return (
     <section className="relative w-full h-[85vh] min-h-100 overflow-hidden mt-10">
       {/* ✅ Background Video */}
-      <Image src ="/images/ambuilder/video-banner.png" alt="Background Video" fill className="object-cover w-full h-full"/>
+      <Image src ="/images/ambuilder/video-banner.jpeg" alt="Background Video" fill className="object-cover w-full h-full"/>
      <video
       ref={videoRef}
       className="absolute top-0 left-0 w-full h-full object-cover"
